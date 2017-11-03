@@ -1,0 +1,28 @@
+<resources>
+    <fitContributions>
+        <fitField id="0"
+        displayInChart="true"
+        sortOrder="0"
+        precision="2"
+        chartTitle="@Strings.sgv_label"
+        dataLabel="@Strings.sgv_label"
+        unitLabel="@Strings.sgv_units"
+        fillColor="#FF0000" />
+
+        <fitField id="1"
+        displayInChart="false"
+        sortOrder = "1"
+        precision="2"
+        displayInActivityLaps="true"
+        dataLabel="@Strings.sgv_label"
+        unitLabel="@Strings.sgv_units" />
+
+        <fitField id="2"
+        displayInActivitySummary="true"
+        sortOrder = "2"
+        precision="2"
+        dataLabel="@Strings.sgv_label"
+        unitLabel="@Strings.sgv_units" />
+
+    </fitContributions>
+</resources>

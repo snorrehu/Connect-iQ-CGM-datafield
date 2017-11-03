@@ -1,0 +1,5 @@
+<strings>
+    <string id="AppName">sgv_datafield</string>
+    <string id="sgv_label">Blood Glucose</string>
+    <string id="sgv_units">mmol/l</string>
+</strings>
