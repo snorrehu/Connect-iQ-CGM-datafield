@@ -1,6 +1,7 @@
 using Toybox.WatchUi as Ui;
 using Toybox.System as Sys;
 using Toybox.FitContributor as Fit;
+using Toybox.Application as App;
 
 const CURRENT_SGV_FIELD_ID = 0;
 const LAP_SGV_FIELD_ID = 1;
@@ -8,7 +9,8 @@ const AVG_SGV_FIELD_ID = 2;
 
 
 class SGVFitContributor {
-
+	private const TAG = "SGVFitContributor";
+	
 	// Variables for computing averages
     hidden var mSgvLapAverage = 0.0;
     hidden var mSgvSessionAverage = 0.0;
@@ -24,6 +26,7 @@ class SGVFitContributor {
 
     // Constructor
     function initialize(dataField) {
+    	Sys.println(TAG + "-> initialize.");
     	
         mCurrentSgvField = dataField.createField("Current_SGV", CURRENT_SGV_FIELD_ID, Fit.DATA_TYPE_FLOAT, { :nativeNum=>54, :mesgType=>Fit.MESG_TYPE_RECORD, :units=>"mmol/l" });
         mLapAverageSgvField = dataField.createField("Lap_average_SGV", LAP_SGV_FIELD_ID, Fit.DATA_TYPE_FLOAT, { :nativeNum=>84, :mesgType=>Fit.MESG_TYPE_LAP, :units=>"mmol/l"});
@@ -38,9 +41,11 @@ class SGVFitContributor {
 		
     }
 
-    function compute(sensor) {
-        if( sgvData != null ) {
-        	var sgv = sgvData.toFloat();
+    function compute(fitData) {
+    	Sys.println(TAG + "-> compute");
+    	Sys.println(fitData);
+        if( fitData != null ) {
+        	var sgv = fitData.toFloat();
             mCurrentSgvField.setData(sgv);  
         	
             if( mTimerRunning ) {
@@ -65,15 +70,18 @@ class SGVFitContributor {
 
    
     function setTimerRunning(state) {
+    	Sys.println(TAG + "-> setTimerRunning");
         mTimerRunning = state;
     }
 
     function onTimerLap() {
+    	Sys.println(TAG + "-> onTimerLap");
         mLapRecordCount = 0;
         mSgvLapAverage = 0.0;
     }
 
     function onTimerReset() {
+    	Sys.println(TAG + "-> onTimerReset");
         mSessionRecordCount = 0;
         mSgvSessionAverage = 0.0;
     }

@@ -8,13 +8,13 @@ using Toybox.FitContributor as fit;
 
 var mFitContributor;
 
-var sgvString = null;
+var sgvString;
 
 class glucose_datafieldView extends Ui.SimpleDataField {
-	
-
+	private const TAG = "glucose_datafieldView";
     // Set the label of the data field here.
     function initialize() {
+    	Sys.println(TAG + "->initialize");
         SimpleDataField.initialize();
         
         //------------------------FIT-----------------------
@@ -23,50 +23,58 @@ class glucose_datafieldView extends Ui.SimpleDataField {
         //--------------------------------------------------
         Sys.println("FIT contributor initialized");
         label = "Blood glucose";
-        Sys.println("label initialized.");
+        App.getApp().setProperty(OSDATA, null);
     }
     
-    // The given info object contains all the current workout
-    // information. Calculate a value and return it in this method.
-    // Note that compute() and onUpdate() are asynchronous, and there is no
-    // guarantee that compute() will be called before onUpdate().
+   
     function compute(info) {
-    	
-        // See Activity.Info in the documentation for available information.
+    	Sys.println(TAG + "-> compute");
+    
         //Returns the value to be displayed in the datafield
-        if(sgvData != null){
-        	sgvString = sgvData + "mmol/l";
+    	//Check the flag:
+    	var tempFlag = App.getApp().getProperty(FLAG);
+    	Sys.println("-> compute: tempFlag = " + tempFlag);
+    	//Read object store:
+    	var tempSgv = App.getApp().getProperty(OSDATA);
+        Sys.println("-> compute: tempSgv = " + tempSgv);
+        mFitContributor.compute("6.54");
+        if(tempFlag){
+        	sgvString = tempSgv + "mmol/l";
+        	
+        	//Reset the flag:
+        	App.getApp().setProperty(FLAG,false);
         }
+     	
         return sgvString;
     }
     
     function onTimerStart() {
-		Sys.println("Activity started.");
+		Sys.println(TAG + "-> onTimerStart.");
         mFitContributor.setTimerRunning( true );
     }
 
     function onTimerStop() {
-    	Sys.println("Activity stopped.");
+    	Sys.println(TAG + "-> onTimerStop.");
         mFitContributor.setTimerRunning( false );
     }
 
     function onTimerPause() {
-    	Sys.println("Activity paused.");
+    	Sys.println(TAG + "-> onTimerPause.");
         mFitContributor.setTimerRunning( false );
     }
 
     function onTimerResume() {
-    	Sys.println("Activity resumed.");
+    	Sys.println(TAG + "-> onTimerResume.");
         mFitContributor.setTimerRunning( true );
     }
 
     function onTimerLap() {
-    	Sys.println("Activity lap.");
+    	Sys.println(TAG + "-> onTimerLap.");
         mFitContributor.onTimerLap();
     }
 
     function onTimerReset() {
-    	Sys.println("Activity reset.");
+    	Sys.println(TAG + "-> onTimerReset.");
         mFitContributor.onTimerReset();
     }
     

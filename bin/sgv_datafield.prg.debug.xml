@@ -1,181 +1,209 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="17" pc="268436314" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="18" pc="268436318" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="22" pc="268436336" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="24" pc="268436368" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="25" pc="268436389" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="26" pc="268436402" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="33" pc="268436424" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="37" pc="268436428" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="38" pc="268436441" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="40" pc="268436466" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="43" pc="268436476" symbol="onTimerStart"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="44" pc="268436480" symbol="onTimerStart"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="45" pc="268436501" symbol="onTimerStart"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="48" pc="268436522" symbol="onTimerStop"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="49" pc="268436526" symbol="onTimerStop"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="50" pc="268436547" symbol="onTimerStop"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="53" pc="268436568" symbol="onTimerPause"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="54" pc="268436572" symbol="onTimerPause"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="55" pc="268436593" symbol="onTimerPause"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="58" pc="268436614" symbol="onTimerResume"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="59" pc="268436618" symbol="onTimerResume"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="60" pc="268436639" symbol="onTimerResume"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="63" pc="268436660" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="64" pc="268436664" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="65" pc="268436685" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="68" pc="268436704" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="69" pc="268436708" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="70" pc="268436729" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="10" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="11" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="12" pc="268435481" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="15" pc="268435500" symbol="onComplete"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="16" pc="268435504" symbol="onComplete"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="19" pc="268435526" symbol="onError"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="20" pc="268435530" symbol="onError"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="28" pc="268435552" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="29" pc="268435556" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="30" pc="268435574" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="34" pc="268435596" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="35" pc="268435600" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="36" pc="268435624" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="37" pc="268435640" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="38" pc="268435661" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="39" pc="268435693" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="40" pc="268435714" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="44" pc="268435739" symbol="onMail"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="45" pc="268435743" symbol="onMail"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="46" pc="268435756" symbol="onMail"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="47" pc="268435780" symbol="onMail"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="22" pc="268435801" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="23" pc="268435805" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="25" pc="268435823" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="29" pc="268435845" symbol="onStart"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="33" pc="268435850" symbol="onStop"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="34" pc="268435854" symbol="onStop"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="35" pc="268435870" symbol="onStop"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="39" pc="268435874" symbol="getInitialView"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="41" pc="268435878" symbol="getInitialView"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="42" pc="268435901" symbol="getInitialView"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="43" pc="268435911" symbol="getInitialView"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="44" pc="268435960" symbol="getInitialView"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="46" pc="268435984" symbol="getInitialView"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="48" pc="268436005" symbol="getInitialView"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="52" pc="268436043" symbol="onBackgroundData"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="53" pc="268436047" symbol="onBackgroundData"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="54" pc="268436057" symbol="onBackgroundData"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="55" pc="268436083" symbol="onBackgroundData"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="56" pc="268436107" symbol="onBackgroundData"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="57" pc="268436148" symbol="onBackgroundData"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="62" pc="268436165" symbol="getServiceDelegate"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="63" pc="268436169" symbol="getServiceDelegate"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="64" pc="268436190" symbol="getServiceDelegate"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="26" pc="268436748" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="28" pc="268436752" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="29" pc="268436848" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="30" pc="268436944" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="32" pc="268437040" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="33" pc="268437063" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="34" pc="268437086" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="36" pc="268437109" symbol="initialize"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="41" pc="268437131" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="42" pc="268437135" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="43" pc="268437148" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="44" pc="268437167" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="46" pc="268437187" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="48" pc="268437198" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="49" pc="268437217" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="50" pc="268437236" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="51" pc="268437252" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="54" pc="268437268" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="55" pc="268437303" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="57" pc="268437338" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="58" pc="268437362" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="59" pc="268437392" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="60" pc="268437431" symbol="compute"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="67" pc="268437477" symbol="setTimerRunning"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="68" pc="268437481" symbol="setTimerRunning"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="71" pc="268437492" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="72" pc="268437496" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="73" pc="268437509" symbol="onTimerLap"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="76" pc="268437523" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="77" pc="268437527" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="78" pc="268437540" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="16" pc="268436574" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="17" pc="268436578" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="18" pc="268436608" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="22" pc="268436626" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="24" pc="268436658" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="25" pc="268436679" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="26" pc="268436692" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="30" pc="268436727" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="31" pc="268436731" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="35" pc="268436761" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="36" pc="268436795" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="38" pc="268436819" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="39" pc="268436853" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="40" pc="268436877" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="41" pc="268436900" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="42" pc="268436905" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="45" pc="268436921" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="48" pc="268436959" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="51" pc="268436969" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="52" pc="268436973" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="53" pc="268437003" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="56" pc="268437024" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="57" pc="268437028" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="58" pc="268437058" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="61" pc="268437079" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="62" pc="268437083" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="63" pc="268437113" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="66" pc="268437134" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="67" pc="268437138" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="68" pc="268437168" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="71" pc="268437189" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="72" pc="268437193" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="73" pc="268437223" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="76" pc="268437242" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="77" pc="268437246" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldView.mc" lineNum="78" pc="268437276" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="11" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="12" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="14" pc="268435490" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="15" pc="268435511" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="18" pc="268435530" symbol="onComplete"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="19" pc="268435534" symbol="onComplete"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="20" pc="268435564" symbol="onComplete"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="23" pc="268435586" symbol="onError"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="24" pc="268435590" symbol="onError"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="25" pc="268435620" symbol="onError"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="35" pc="268435642" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="36" pc="268435646" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="38" pc="268435676" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="39" pc="268435694" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="43" pc="268435716" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="44" pc="268435720" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="45" pc="268435750" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="46" pc="268435774" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="47" pc="268435790" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="48" pc="268435811" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="49" pc="268435843" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="50" pc="268435864" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="54" pc="268435889" symbol="onMail"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="55" pc="268435893" symbol="onMail"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="56" pc="268435906" symbol="onMail"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldDelegate.mc" lineNum="57" pc="268435939" symbol="onMail"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="22" pc="268435960" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="23" pc="268435964" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="25" pc="268435994" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="29" pc="268436013" symbol="onStart"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="30" pc="268436017" symbol="onStart"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="34" pc="268436048" symbol="onStop"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="35" pc="268436052" symbol="onStop"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="36" pc="268436082" symbol="onStop"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="37" pc="268436098" symbol="onStop"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="41" pc="268436102" symbol="getInitialView"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="42" pc="268436106" symbol="getInitialView"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="45" pc="268436136" symbol="getInitialView"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="46" pc="268436159" symbol="getInitialView"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="47" pc="268436169" symbol="getInitialView"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="48" pc="268436218" symbol="getInitialView"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="50" pc="268436251" symbol="getInitialView"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="52" pc="268436272" symbol="getInitialView"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="56" pc="268436310" symbol="onBackgroundData"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="57" pc="268436314" symbol="onBackgroundData"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="60" pc="268436347" symbol="onBackgroundData"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="62" pc="268436382" symbol="onBackgroundData"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="63" pc="268436417" symbol="onBackgroundData"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="68" pc="268436434" symbol="getServiceDelegate"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="69" pc="268436438" symbol="getServiceDelegate"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\glucose_datafieldApp.mc" lineNum="70" pc="268436468" symbol="getServiceDelegate"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="28" pc="268437295" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="29" pc="268437299" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="31" pc="268437329" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="32" pc="268437425" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="33" pc="268437521" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="35" pc="268437617" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="36" pc="268437640" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="37" pc="268437663" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="39" pc="268437686" symbol="initialize"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="44" pc="268437708" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="45" pc="268437712" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="46" pc="268437742" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="47" pc="268437760" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="48" pc="268437767" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="49" pc="268437780" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="51" pc="268437800" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="53" pc="268437811" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="54" pc="268437830" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="55" pc="268437849" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="56" pc="268437865" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="59" pc="268437881" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="60" pc="268437916" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="62" pc="268437951" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="63" pc="268437975" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="64" pc="268438005" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="65" pc="268438044" symbol="compute"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="72" pc="268438090" symbol="setTimerRunning"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="73" pc="268438094" symbol="setTimerRunning"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="74" pc="268438124" symbol="setTimerRunning"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="77" pc="268438135" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="78" pc="268438139" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="79" pc="268438169" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="80" pc="268438182" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="83" pc="268438196" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="84" pc="268438200" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="85" pc="268438230" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\snorr\\eclipse-workspace\\sgv_datafield\\source\\SGVFitContributions.mc" lineNum="86" pc="268438243" symbol="onTimerReset"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="11" object="true" symbol="glucose_datafieldView"/>
-<entry field="true" id="14" symbol="sgvData"/>
-<entry field="true" id="36" symbol="mSessionAverageSgvField"/>
-<entry id="37" method="true" symbol="setTimerRunning"/>
+<entry field="true" id="40" symbol="mSessionAverageSgvField"/>
+<entry id="41" method="true" symbol="setTimerRunning"/>
 <entry id="8389748" method="true" symbol="onTimerStop"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="12" object="true" symbol="RequestListener"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
-<entry field="true" id="33" symbol="mTimerRunning"/>
+<entry field="true" id="37" symbol="mTimerRunning"/>
 <entry id="13" object="true" symbol="BgbgServiceDelegate"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389849" symbol="units"/>
-<entry field="true" id="16" symbol="OSDATA"/>
+<entry field="true" id="15" symbol="OSDATA"/>
 <entry id="21" object="true" symbol="SGVFitContributor"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8388924" module="true" symbol="Gregorian"/>
-<entry field="true" id="31" symbol="mLapRecordCount"/>
-<entry field="true" id="30" symbol="mSgvSessionAverage"/>
+<entry field="true" id="35" symbol="mLapRecordCount"/>
+<entry field="true" id="34" symbol="mSgvSessionAverage"/>
 <entry id="8389752" method="true" symbol="onTimerReset"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="28" symbol="AppName"/>
-<entry field="true" id="34" symbol="mCurrentSgvField"/>
-<entry field="true" id="29" symbol="mSgvLapAverage"/>
+<entry field="true" id="31" symbol="AppName"/>
+<entry field="true" id="38" symbol="mCurrentSgvField"/>
+<entry field="true" id="33" symbol="mSgvLapAverage"/>
 <entry field="true" id="20" symbol="AVG_SGV_FIELD_ID"/>
 <entry field="true" id="19" symbol="LAP_SGV_FIELD_ID"/>
 <entry id="8390146" module="true" symbol="Background"/>
-<entry field="true" id="25" symbol="LauncherIcon"/>
-<entry field="true" id="27" symbol="sgv_label"/>
-<entry field="true" id="26" symbol="sgv_units"/>
+<entry field="true" id="16" symbol="FLAG"/>
+<entry field="true" id="28" symbol="LauncherIcon"/>
+<entry field="true" id="30" symbol="sgv_label"/>
+<entry field="true" id="22" symbol="&lt;globals_glucose_datafieldApp_&lt;&gt;TAG&gt;"/>
+<entry field="true" id="29" symbol="sgv_units"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8388829" method="true" symbol="onComplete"/>
 <entry field="true" id="10" symbol="sgvString"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389137" method="true" symbol="compute"/>
+<entry field="true" id="23" symbol="&lt;globals_RequestListener_&lt;&gt;TAG&gt;"/>
+<entry field="true" id="42" symbol="&lt;globals_glucose_datafieldView_&lt;&gt;TAG&gt;"/>
 <entry id="8389936" symbol="nativeNum"/>
 <entry field="true" id="9" symbol="mFitContributor"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry id="8389747" method="true" symbol="onTimerStart"/>
 <entry id="8390170" method="true" symbol="onBackgroundData"/>
-<entry field="true" id="35" symbol="mLapAverageSgvField"/>
+<entry field="true" id="32" symbol="&lt;globals_SGVFitContributor_&lt;&gt;TAG&gt;"/>
+<entry field="true" id="39" symbol="mLapAverageSgvField"/>
 <entry field="true" id="18" symbol="CURRENT_SGV_FIELD_ID"/>
 <entry id="8390169" method="true" symbol="getServiceDelegate"/>
 <entry id="8389750" method="true" symbol="onTimerResume"/>
 <entry id="8390148" method="true" symbol="onTemporalEvent"/>
-<entry field="true" id="32" symbol="mSessionRecordCount"/>
-<entry id="22" method="true" symbol="onMail"/>
-<entry id="24" module="true" symbol="Layouts"/>
+<entry field="true" id="36" symbol="mSessionRecordCount"/>
+<entry id="25" method="true" symbol="onMail"/>
+<entry id="27" module="true" symbol="Layouts"/>
 <entry id="8390147" object="true" symbol="ServiceDelegate"/>
+<entry field="true" id="24" symbol="&lt;globals_BgbgServiceDelegate_&lt;&gt;TAG&gt;"/>
 <entry id="8389749" method="true" symbol="onTimerPause"/>
 <entry id="8388828" method="true" symbol="onError"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry id="17" object="true" symbol="glucose_datafieldApp"/>
-<entry id="23" module="true" symbol="Menus"/>
+<entry id="26" module="true" symbol="Menus"/>
 <entry id="8389751" method="true" symbol="onTimerLap"/>
-<entry field="true" id="15" symbol="canDoBG"/>
+<entry field="true" id="14" symbol="canDoBG"/>
 <entry id="8389847" symbol="mesgType"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
 </symbolTable>
 <localVars>
-<entry endPc="268436476" name="info" stackId="1" startPc="268436424"/>
-<entry endPc="268435738" name="listener" stackId="1" startPc="268435600"/>
-<entry endPc="268435800" name="mail" stackId="2" startPc="268435743"/>
-<entry endPc="268435801" name="mailIter" stackId="1" startPc="268435739"/>
-<entry endPc="268435850" name="state" stackId="1" startPc="268435845"/>
-<entry endPc="268435874" name="state" stackId="1" startPc="268435850"/>
-<entry endPc="268436165" name="data" stackId="1" startPc="268436043"/>
-<entry endPc="268437131" name="dataField" stackId="1" startPc="268436748"/>
-<entry endPc="268437473" name="sgv" stackId="2" startPc="268437148"/>
-<entry endPc="268437477" name="sensor" stackId="1" startPc="268437131"/>
-<entry endPc="268437492" name="state" stackId="1" startPc="268437477"/>
+<entry endPc="268436968" name="tempFlag" stackId="2" startPc="268436731"/>
+<entry endPc="268436968" name="tempSgv" stackId="3" startPc="268436731"/>
+<entry endPc="268436969" name="info" stackId="1" startPc="268436727"/>
+<entry endPc="268435888" name="listener" stackId="1" startPc="268435720"/>
+<entry endPc="268435959" name="mail" stackId="2" startPc="268435893"/>
+<entry endPc="268435960" name="mailIter" stackId="1" startPc="268435889"/>
+<entry endPc="268436048" name="state" stackId="1" startPc="268436013"/>
+<entry endPc="268436102" name="state" stackId="1" startPc="268436048"/>
+<entry endPc="268436434" name="data" stackId="1" startPc="268436310"/>
+<entry endPc="268437708" name="dataField" stackId="1" startPc="268437295"/>
+<entry endPc="268438086" name="sgv" stackId="2" startPc="268437767"/>
+<entry endPc="268438090" name="fitData" stackId="1" startPc="268437708"/>
+<entry endPc="268438135" name="state" stackId="1" startPc="268438090"/>
 </localVars>
 <annotations/>
 <functions>
@@ -249,7 +277,7 @@
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="compute" parent="SGVFitContributor">
-<param id="sensor"/>
+<param id="fitData"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="setTimerRunning" parent="SGVFitContributor">
@@ -266,16 +294,16 @@
 <dataEntryOffsetMappings>
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
 <dataEntry offset="270" parentId="globals" symbolId="glucose_datafieldApp" type="class"/>
-<dataEntry offset="357" parentId="globals" symbolId="RequestListener" type="class"/>
-<dataEntry offset="420" parentId="globals" symbolId="BgbgServiceDelegate" type="class"/>
-<dataEntry offset="1272" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry offset="1351" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="1390" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="1421" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="1452" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="1483" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="1514" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="1569" parentId="globals" symbolId="SGVFitContributor" type="class"/>
-<dataEntry offset="1712" parentId="globals" symbolId="glucose_datafieldView" type="class"/>
+<dataEntry offset="365" parentId="globals" symbolId="RequestListener" type="class"/>
+<dataEntry offset="436" parentId="globals" symbolId="BgbgServiceDelegate" type="class"/>
+<dataEntry offset="1363" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="1442" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="1481" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="1512" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="1543" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1574" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1605" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1660" parentId="globals" symbolId="SGVFitContributor" type="class"/>
+<dataEntry offset="1811" parentId="globals" symbolId="glucose_datafieldView" type="class"/>
 </dataEntryOffsetMappings>
 </debugInfo>
