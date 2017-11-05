@@ -4,4 +4,5 @@ Works with a modified version of the Nightscout Uploader, which I'll post soon.
 
 
 Code is partly inspired from the samples "MoxyField" and "SimpleDataField" from the Connect iQ SDK 2.3.5. 
+
 A more thorough text is coming..
